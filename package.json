@@ -1,0 +1,33 @@
+{
+  "name": "nightlife",
+  "version": "0.1.0",
+  "description": "A nightlife coordnation app for FreeCodeCamp",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "connect-mongostore": "^0.1.4",
+    "dotenv": "^2.0.0",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongodb": "^2.1.20",
+    "mongoose": "^4.4.19",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlJKashnier/nightLife.git"
+  },
+  "author": "Carl J. Kashnier",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/CarlJKashnier/nightLife/issues"
+  },
+  "homepage": "https://github.com/CarlJKashnier/nightLife#readme"
+}
